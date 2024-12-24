@@ -1,0 +1,8 @@
+#Commented out IPython magic to ensure Python compatibility.
+-qU pypdf
+pinecone-client
+langchain-community
+langchain-huggingface
+langchain-pinecone
+protoc-gen-openapiv2
+langchain-openai
